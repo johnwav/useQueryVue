@@ -1,0 +1,15 @@
+{
+    "name": "your-package-name",
+    "version": "1.0.0",
+    "main": "useQueryVue.js",
+    "types": "useQueryVue.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/vue": "^2.0.0"
+    }
+}
